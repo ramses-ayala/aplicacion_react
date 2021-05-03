@@ -11,7 +11,6 @@ import './assets/css/App.css'
 
 import  Router  from './Router';
 
-
 function App() {
   /*
    DEFINICION DE VARIABLES
